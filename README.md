@@ -8,15 +8,10 @@ This application analyzes an a company hierarchy from a CSV file and reports:
 - which employees have a reporting line which is too long, and by how much
 
 #### Key points:
-- use only Java SE (any version), and Junit (any version) for tests.
-- use maven for project structure and build
-- your application should read data from a file and print out output to console. No GUIs
-needed.
-- code will be assessed on correctness, simplicity, readability and cleanliness
-- If you have any doubts make a sensible assumption and document it
+- Java SE (any version), and Junit (any version) for tests.
+- Maven for project structure and build
+- application should read data from a file and print out output to console.
 
-## Usage
-Run:
 
 ## Assumptions
 CSV format: 
